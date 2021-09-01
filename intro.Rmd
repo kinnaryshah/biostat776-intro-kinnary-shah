@@ -1,0 +1,32 @@
+---
+title: "intro"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Intro
+
+Hi everyone! My name is Kinnary (kin-uh-ree) Shah. I’m a first-year PhD candidate in the JHSPH Biostatistics department. This May, I graduated with my B.S. in Biomathematics and Public Health from Rutgers University-New Brunswick. I hope to use this academic year to explore my research interests within biostatistics. Currently, I am interested in innovative clinical trials, health disparities, genomics, and community-based programming evaluation.
+
+## Background
+
+I had a few research experiences throughout my undergraduate career. Through the Rutgers University Department of Genetics, I worked closely on a computational genetics project with Dr. Christopher Ellison to better understand a specific type of methylation in Drosophila using next generation sequencing. Here’s our paper if you’re interested: https://pubmed.ncbi.nlm.nih.gov/30988038/ Last summer, I worked wtih Dr. Li-Xuan Qin in the Biostatistics Department at Memorial Sloan Kettering Cancer Center. We looked at the effects of different normalization methods on microRNA sequencing data in ovarian cancer. Finally, I worked with the Center for Civic Engagement at Rutgers University in Fall 2020 to understand the effects of COVID-19 on the emergency food system (like food banks, food pantries, etc.) in central NJ.
+
+I have extensively used Python and R for my research projects, but I am excited to learn about GitHub through this course!
+
+## Fun Facts
+
+1. I love doing yoga (see next section).
+2. I participated in a dance festival in Switzerland in January 2019.
+3. I love going to concerts! My favorite concerts I’ve attended are Hozier in November 2019 and Khalid in May 2018.
+4. I studied abroad in Belize in 2019, where I took a course in health, belief, and ethnomedicine.
+5. My favorite color is purple.
+
+## Great Website
+
+https://yogawithadriene.com
+
+Yoga with Adriene has been so helpful during the pandemic. I’ve used her practices to stay calm and mindful - I highly recommend trying it out.
