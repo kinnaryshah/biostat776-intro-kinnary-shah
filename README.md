@@ -1,2 +1,2 @@
-# biostat776-intro-kinnary-shah
-intro for statistical computing course
+# Introducing Me
+This website is an introduction to Kinnary Shah.
